@@ -1,5 +1,7 @@
 package Homework_4;
 
+//  Задание: Пусть дан LinkedList с несколькими элементами. Реализуйте метод, который вернет “перевернутый” список.
+
 import java.util.ArrayDeque;
 
 public class Ex_1 {
